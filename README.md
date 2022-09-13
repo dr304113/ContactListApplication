@@ -1,2 +1,4 @@
-# OnlineNotes
-A quick and easy way to keep track of all things noteworthy:)
+# ContactList Web Application
+A useful application used to create, read, update, and delete contacts.
+
+<img src="ContactListAppScreenshot.png">
