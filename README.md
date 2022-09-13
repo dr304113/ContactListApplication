@@ -1,2 +1,2 @@
-# ContactListApplication
-A web application to keep track of contact information
+# OnlineNotes
+A quick and easy way to keep track of all things noteworthy:)
